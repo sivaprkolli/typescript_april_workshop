@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "test:functions1": "ts-node functions_1.ts",
+        "arrays":"ts-node arrays1.ts"
+    }
+}
